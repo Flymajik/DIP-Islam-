@@ -400,7 +400,7 @@ __________________×______________________
   
   Owner   :  Senayel Islam
  
-  Github   : MGIC
+  Github   : MAGIC
 
   Facebook:SENAYEL ISLAM DIP
   
